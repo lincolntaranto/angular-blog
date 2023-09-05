@@ -1,0 +1,36 @@
+@media screen and (max-width:1441px) {
+  .menu-title-container > h1 {
+    font-size: 100px;
+  }
+}
+
+@media screen and (max-width:1025px) {
+  .menu-title-container > h1 {
+    font-size: 80px;
+  }
+}
+
+@media screen and (max-width:769px) {
+  .menu-title-container > h1 {
+    font-size: 70px;
+  }
+}
+
+@media screen and (max-width:426px) {
+  .menu-title-container > h1 {
+    font-size: 40px;
+  }
+
+}
+
+@media screen and (max-width:380px) {
+  .menu-title-container > h1 {
+    font-size: 35px;
+  }
+}
+
+@media screen and (max-width:320px) {
+  .menu-title-container > h1 {
+    font-size: 30px;
+  }
+}

@@ -1,0 +1,14 @@
+@media screen and (max-width:426px) {
+  .content-description{
+    margin-top: 10px;
+    width: 350px;
+  }
+}
+
+@media screen and (max-width:376px) {
+  .content-description{
+    margin-top: 10px;
+    width: 300px;
+  }
+}
+

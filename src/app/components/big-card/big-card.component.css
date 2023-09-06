@@ -18,6 +18,10 @@
   min-width: 400px;
 }
 
+.big-card-picture > img {
+  border-radius: 5px;
+}
+
 .big-card-title > h1{
   font-size: 20px;
 }

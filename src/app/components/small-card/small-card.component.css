@@ -11,7 +11,10 @@
 .small-card-picture > img{
   width: 200px;
   min-width: 200px;
+  max-width: 200px;
+  height: 113px;
   margin-right: 20px;
+  border-radius: 5px;
 }
 
 .small-card-title {
@@ -22,6 +25,11 @@
 
 .container-small-card-separator{
   margin-top: 10px;
+}
+
+.container-small-card-separator > hr{
+  border-color: gray;
+  opacity: 0.5;
 }
 
 

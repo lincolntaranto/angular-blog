@@ -8,4 +8,4 @@ Angular Project for a Blog Example
 
 ## Modifications in relation to the original.
 
-Added minor layout improvements to images and HR, and responsiveness for mobile platforms.
+Added minor layout improvements to images and HR, and responsiveness for mobile platforms
